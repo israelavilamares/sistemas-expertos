@@ -1,0 +1,6 @@
+(clear)
+(load "temples.clp")
+(load "rules.clp")
+(load "facts.clp")
+(reset)
+(run)
